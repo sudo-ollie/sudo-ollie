@@ -1,5 +1,3 @@
-Here's the proofread and improved version in UK English, maintaining the HTML structure:
-
 <h1 align="center">Hi 👋, I'm Ollie</h1>
 <h3 align="center">A junior full-stack developer with a passion for learning and a keen interest in understanding how things work, as well as why they work.</h3>
 
