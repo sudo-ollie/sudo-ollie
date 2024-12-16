@@ -4,8 +4,6 @@
 <h3>🔭 Projects I'm currently working on:</h3>
 
 <ul>
-  <li><strong>Stock Portfolio Management System:</strong> Written in C# and React, this full-stack system allows 'users' to view their current portfolio and related data, whilst enabling 'admins' to manage users, user portfolios and view relevant data.</li>
-  <li><strong>Museum Aggregator Website:</strong> Allows users to view items from multiple museum/collection APIs on one site, as well as create public or private exhibitions to share or save their curated collections.</li>
   <li><strong>Solana On-Chain Data Analysis Tool:</strong> Initially a couple of basic scripts, but will eventually develop into a suite of data analysis tools that allow users to retrieve more in-depth information on specific wallets/coins.</li>
 </ul>
 
