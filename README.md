@@ -11,7 +11,6 @@
 
 <ul>
   <li><strong>C#:</strong> Where possible, I'm choosing to complete projects in C#, allowing me to become more comfortable with typed languages and OOP.</li>
-  <li><strong>Python:</strong> Refreshing my Python skills to ensure they're in line with my other languages.</li>
   <li><strong>CSS:</strong> Practising and actively learning more CSS to ensure I can produce the results I want.</li>
 </ul>
 
