@@ -3,8 +3,8 @@
 
 <h3>🔭 Projects I'm currently working on:</h3>
 <ul>
-  <li><strong>Automated Cryptocurrency Trading Bot:</strong> A trading bot built to execute delta-neutral trading strategies across multiple exchanges, with a focus on automation, risk management, and real-time order execution. ![Completed](https://img.shields.io/badge/Stage-Completed-brightgreen) </li>
-  <li><strong>AI-Powered CRM & Knowledge Tool:</strong> A hybrid internal tool combining CRM functionality with semantic search across documents, notes, contracts, and emails — allowing teams to query their own data in plain language. ![Early Stage](https://img.shields.io/badge/Stage-Early%20Stage-orange) </li>
+  <li><strong>Automated Cryptocurrency Trading Bot:</strong> A trading bot built to execute delta-neutral trading strategies across multiple exchanges, with a focus on automation, risk management, and real-time order execution. <img src="https://img.shields.io/badge/Stage-Completed-brightgreen" alt="Completed"/></li>
+  <li><strong>AI-Powered CRM & Knowledge Tool:</strong> A hybrid internal tool combining CRM functionality with semantic search across documents, notes, contracts, and emails — allowing teams to query their own data in plain language. <img src="https://img.shields.io/badge/Stage-Early%20Stage-orange" alt="Early Stage"/></li>
 </ul>
 
 <h3>🌱 Things I'm Currently Implementing / Learning:</h3>
